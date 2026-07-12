@@ -119,6 +119,7 @@ The following analyses were performed:
 ---
 ![image alt](https://github.com/PratyushMishra5577/E_Commerce-Sales-Analysis/blob/51db080b013561d008fbc98ab42432e46e0e9691/newplot%20(1).png)
 ![image alt](https://github.com/PratyushMishra5577/E_Commerce-Sales-Analysis/blob/449230cea8cf536829e38fa07bd6d2cb76b93d35/newplot%20(4).png)
+![image alt](https://github.com/PratyushMishra5577/E_Commerce-Sales-Analysis/blob/fd55c4a9db82794863541eeb53f3f8220b48f835/newplot%20(3).png)
 
 ## 📁 Project Structure
 
