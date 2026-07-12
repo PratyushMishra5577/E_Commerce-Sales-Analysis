@@ -166,7 +166,7 @@ Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
 ### 📫 Connect With Me
 
 * GitHub: https://github.com/PratyushMishra5577
-* LinkedIn: Add your LinkedIn profile link here
+* LinkedIn: https://www.linkedin.com/in/pratyush-mishra5577/
 
 ---
 
