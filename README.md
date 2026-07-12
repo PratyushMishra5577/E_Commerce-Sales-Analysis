@@ -117,6 +117,7 @@ The following analyses were performed:
 * Built predictive models to estimate future sales performance.
 
 ---
+![image alt](https://github.com/PratyushMishra5577/E_Commerce-Sales-Analysis/blob/51db080b013561d008fbc98ab42432e46e0e9691/newplot%20(1).png)
 
 ## 📁 Project Structure
 
