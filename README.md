@@ -1,5 +1,5 @@
 ![image alt](https://github.com/PratyushMishra5577/E_Commerce-Sales-Analysis/blob/346aa35e53488e7938a16176eed13e44560da58b/Screenshot%202026-07-12%20021734.png)
-
+![image alt](https://github.com/PratyushMishra5577/E_Commerce-Sales-Analysis/blob/40da227d030c4e08b7719cf76a6cb9a0c15af7b9/Screenshot%202026-07-12%20021837.png)
 # 🛒 E-Commerce Data Analysis
 
 ## 📌 Project Overview
